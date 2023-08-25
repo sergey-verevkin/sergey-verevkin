@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**sergey-verevkin/sergey-verevkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sergey, a passionate 🚀 software developer from Ukraine. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: DriverReach
+- 🌱 I’m currently learning: AWS Solution Architect
+- 💬 Ask me about: Ruby, Software Design, Arduino or 3D printers
+- 📫 How to reach me: [Email](mailto:serhii.virovkin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sverevkin/)
+- 😄 Pronouns: [Your Pronouns]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Main Tech Stack
+
+- Languages: Ruby + JavaScript
+- Frameworks: Ruby on Rails + Vue.js
+- Databases: PostgreSQL
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-verevkin)
