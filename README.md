@@ -6,7 +6,7 @@ I'm Sergey, a passionate 🚀 software developer from Ukraine. Welcome to my Git
 - 🌱 I’m currently learning: AWS Solution Architect
 - 💬 Ask me about: Ruby, Software Design, Arduino or 3D printers
 - 📫 How to reach me: [Email](mailto:serhii.virovkin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sverevkin/)
-- 😄 Pronouns: Sehr-gay
+- 😄 Pronouns: Ser-gay
 
 ## 🛠️ Main Tech Stack
 
