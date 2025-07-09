@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sergey, a passionate 🚀 software developer from Ukraine. Welcome to my GitHub profile!
+I'm Sergey, a passionate 🚀 software developer based in Tallinn, Estonia and originally from Ukraine. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on: DriverReach
 - 🌱 I’m currently learning: AWS Solution Architect
